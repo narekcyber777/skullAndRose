@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkullAndRoses</string>
+
+    <string name="button_start">Play</string>
+    <string name="button_end">Restart</string>
+
+</resources>
